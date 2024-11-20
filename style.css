@@ -1,5 +1,5 @@
 body { background-color: lightblue; }
 .container {
-  display: img;
+  display: grid;
   place-items: center; /* Menengahkan gambar di grid */
 }
