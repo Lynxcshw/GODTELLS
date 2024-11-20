@@ -3,7 +3,7 @@ body { background-color: lightblue; }
   display: grid;
   place-items: center; /* Menengahkan gambar di grid */
 }
-.container{
+.container {
   display: inline-block;
   font-family: "arial";
   font-size: 24px;
